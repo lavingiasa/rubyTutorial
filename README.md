@@ -2,4 +2,4 @@
 
 This is the first application for the
 [*Ruby on Rails Tutorial*](http://railstutorial.org/)
-by [Samir Lavingia](scf.usc.edu/~samirlav).
+by [Samir Lavingia](http://scf.usc.edu/~samirlav).
